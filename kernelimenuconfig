@@ -1,0 +1,4 @@
+#!/bin/bash
+export ARCH=arm
+export CROSS_COMPILE=~/simpleaosp/prebuilts/gcc/linux-x86/arm/arm-eabi-4.10/bin/arm-eabi-
+make menuconfig
